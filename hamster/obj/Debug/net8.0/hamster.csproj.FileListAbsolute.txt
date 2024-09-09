@@ -1,0 +1,14 @@
+D:\hamster\hamster\hamster\bin\Debug\net8.0\hamster.exe
+D:\hamster\hamster\hamster\bin\Debug\net8.0\hamster.deps.json
+D:\hamster\hamster\hamster\bin\Debug\net8.0\hamster.runtimeconfig.json
+D:\hamster\hamster\hamster\bin\Debug\net8.0\hamster.dll
+D:\hamster\hamster\hamster\bin\Debug\net8.0\hamster.pdb
+D:\hamster\hamster\hamster\obj\Debug\net8.0\hamster.GeneratedMSBuildEditorConfig.editorconfig
+D:\hamster\hamster\hamster\obj\Debug\net8.0\hamster.AssemblyInfoInputs.cache
+D:\hamster\hamster\hamster\obj\Debug\net8.0\hamster.AssemblyInfo.cs
+D:\hamster\hamster\hamster\obj\Debug\net8.0\hamster.csproj.CoreCompileInputs.cache
+D:\hamster\hamster\hamster\obj\Debug\net8.0\hamster.dll
+D:\hamster\hamster\hamster\obj\Debug\net8.0\refint\hamster.dll
+D:\hamster\hamster\hamster\obj\Debug\net8.0\hamster.pdb
+D:\hamster\hamster\hamster\obj\Debug\net8.0\hamster.genruntimeconfig.cache
+D:\hamster\hamster\hamster\obj\Debug\net8.0\ref\hamster.dll
